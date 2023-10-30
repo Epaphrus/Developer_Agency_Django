@@ -9,7 +9,7 @@ def about(request):
     return render(request, 'about.html')
 
 
-def whatwedo(request):
+def what_we_do(request):
     return render(request, 'do.html')
 
 
