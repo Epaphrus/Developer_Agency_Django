@@ -14,4 +14,7 @@ def whatwedo(request):
 
 
 def contact(request):
-    return render(request, '')
+    return render(request, 'contact.html')
+
+
+
